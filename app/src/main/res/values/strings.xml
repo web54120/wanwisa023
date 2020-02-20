@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">wanwisa023</string>
+    <string name="btn_cc">เชียงใหม่</string>
+    <string name="btn_na">น่าน</string>
+    <string name="btn_cr">เชียงราย</string>
+    <string name="btn_ph">แพร่</string>
+
+    <string name="content_cc">
+      ดอยสุเทพเป็นศรี ประเพณีเป็นสง่า บุปผชาติล้วนงามตา นามล้ำค่านครพิงค์
+    </string>
+    <string name="content_na">
+        แข่งเรือลือเลื่อง เมืองงาช้างดำ จิตรกรรมวัดภูมินทร์ แดนดินส้มสีทอง เรืองรองพระธาตุแช่แห้ง
+    </string>
+    <string name="content_cr">
+        เหนือสุดในสยาม ชายแดนสามแผ่นดิน ถิ่นวัฒนธรรมล้านนา ล้ำค่าพระธาตุดอยตุง
+    </string>
+    <string name="content_ph">
+        หม้อห้อมไม้สัก ถิ่นรักพระลอ ช่อแฮศรีเมือง ลือเลื่องแพะเมืองผี คนแพร่นี้ใจงาม
+    </string>
+</resources>
